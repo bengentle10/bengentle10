@@ -8,8 +8,8 @@ I'm Bernard Adjei, a full-stack developer with a dynamic passion for data scienc
 ## Skills and Experience
 * ⚛ React, Next JS, Tailwind
 * 💻 HTML, CSS, JS/TS
-* 🐍 Python
-* 🧮 MATLAB/SIMULINK, JAVA, C++/c++
+* 🐍 Python, MATLAB, Java, C++/C
+* 🧮 Proteus, Simulink, IDX
 * 📡 IOT, Arduino Prototyping
 
 
