@@ -6,7 +6,7 @@
 I'm Bernard Adjei, a full-stack developer with a dynamic passion for data science, electronics, artificial intelligence, and their applications in healthcare. I enjoy using MATLAB and other simulation softwares to explore new possibilities and develop my skills in these areas. I am particularly interested in creating apps, algorithms and models that can be a game-changer in healthcare, making doctors' jobs easier and improving patient well-being. I am always up for a challenge and breaking the limits of what is doable. Let us chat and brainstorm how we can team up to cook up some innovative solutions that truly matter!
 
 ## Skills and Experience
-* ⚛ React, Next JS, Tailwind
+* ⚛ React, Next JS, Tailwind CSS, Shadcn/ui
 * 💻 HTML, CSS, JS/TS
 * 🐍 Python, MATLAB, Java, C++/C
 * 🧮 Proteus, Simulink, IDX
