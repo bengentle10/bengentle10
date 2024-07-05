@@ -1,4 +1,4 @@
-![Design and Development](banner.jpg)
+![Design and Development](banner.png)
 
 # Bernard Adjei
 ## Innovative Design and Development
