@@ -1,6 +1,6 @@
 ## Innovative Design and Development
 
-I'm Bernard Adjei, and I am particularly interested in creating apps, algorithms and models that can be a game-changer in healthcare, making doctors' jobs easier and improving patient well-being. I am always up for a challenge and breaking the limits of what is doable. Let us chat and brainstorm how we can team up to cook up some innovative solutions that truly matter!
+I aim for innovative design and development because I believe in creating solutions that truly make a difference. I am particularly interested in creating apps, algorithms, and models that can be a game-changer in healthcare, making doctors' jobs easier and improving patient well-being. I am always up for a challenge and breaking the limits of what is doable. Let's chat and brainstorm how we can team up to cook up some innovative solutions that truly matter.
 
 ## Skills and Experience
 * ⚛ React, Next JS, Tailwind CSS, Shadcn/ui
