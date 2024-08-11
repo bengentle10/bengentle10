@@ -1,6 +1,6 @@
 # Innovative Design and Development
 
-Creating solutions that drive real impact is my core belief. I am particularly interested in creating apps, algorithms, and models that can be a game-changer in healthcare, making doctors' jobs easier and improving patient well-being. I am always up for a challenge and breaking the limits of what is doable. Let's chat and brainstorm how we can team up to change lives.
+Creating solutions that drive real impact is my core belief. I am particularly interested in engineering apps, algorithms, and models that can be a game-changer in healthcare, making doctors' jobs easier and improving patient well-being. I am always up for a challenge and breaking the limits of what is doable. Let's chat and brainstorm how we can team up to change lives.
 
 ## Skills and Experience
 * ⚛ React, Next JS, Tailwind CSS, Shadcn/ui
