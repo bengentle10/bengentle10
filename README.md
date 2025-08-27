@@ -103,7 +103,7 @@ class EmbeddedAI_Engineer {
 - 📊 **Real-time monitoring** of 33/57/118-bus power systems
 
 ### 📡 IoT Soil Resistance Monitoring System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bengentle10&repo=Soil-Resistance-Monitor&theme=radical)](https://github.com/bengentle10/Soil-Resistance-Monitor)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bengentle10&repo=Remote-Soil-Resistance-Monitoring&theme=radical)](https://github.com/bengentle10/Soil-Resistance-Monitor)
 
 **Smart Agriculture & Electrical Safety** | *Arduino, C++, GSM, IoT*
 - 🌱 **50% water savings** through intelligent irrigation
