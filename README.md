@@ -91,8 +91,11 @@ class EmbeddedAI_Engineer {
 ---
 
 ## 🚀 Featured Projects
-<div>
-### 🔬 **Physics-Informed Neural Networks**
+
+<div align="center">
+
+**🔬 Physics-Informed Neural Networks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
@@ -105,8 +108,9 @@ class EmbeddedAI_Engineer {
 
 *Private repository - Academic research in progress*
 
-### 📡 IoT Soil Resistance Monitoring System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bengentle10&repo=Remote-Soil-Resistance-Monitoring&theme=radical)](https://github.com/bengentle10/Soil-Resistance-Monitor)
+---
+
+**📡 IoT Soil Resistance Monitoring System**
 
 **Smart Agriculture & Electrical Safety** | *Arduino, C++, GSM, IoT*
 - 🌱 **50% water savings** through intelligent irrigation
