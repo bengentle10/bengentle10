@@ -92,15 +92,23 @@ class EmbeddedAI_Engineer {
 
 ## 🚀 Featured Projects
 
-<div align="center">
 
-### 🔬 Physics-Informed Graph Neural Networks for Power Systems (Private Repo for now)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bengentle10&repo=Physics_Informed_Machine_Learning&theme=radical)](https://github.com/bengentle10/Physics_Informed_Machine_Learning)
+<table>
+<tr>
+<td width="50%">
 
-**Dynamic State Estimation using AI** | *Python, PyTorch, Graph Neural Networks*
-- 🧠 **Physics-informed loss functions** ensuring electrical law compliance
-- ⚡ **Multi-objective optimization** for power system analysis
-- 📊 **Real-time monitoring** of 33/57/118-bus power systems
+### 🔬 **Physics-Informed Neural Networks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
+
+**Dynamic State Estimation for Power Systems**
+- 🧠 Physics-informed loss functions
+- ⚡ Multi-objective optimization  
+- 📊 Real-time monitoring (33/57/118-bus)
+- 🔬 Research project with promising results
+
+*Private repository - Academic research in progress*
 
 ### 📡 IoT Soil Resistance Monitoring System
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bengentle10&repo=Remote-Soil-Resistance-Monitoring&theme=radical)](https://github.com/bengentle10/Soil-Resistance-Monitor)
