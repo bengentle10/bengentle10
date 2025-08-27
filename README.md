@@ -28,7 +28,7 @@ class EmbeddedAI_Engineer {
 };
 ```
 
-🔬 **Research Focus**: Developing efficient inference engines for TinyML applications using low-level C++ optimization, quantization, and exploring AI hardware accelerators to push the boundaries of what's possible at the edge.
+🔬 **Research Focus**: To Develope efficient inference engines for TinyML applications using low-level C++ optimization, quantization, and exploring AI hardware accelerators to push the boundaries of what's possible at the edge.
 
 💡 **Mission**: Building apps, sensing technologies, algorithms, and models that can be game-changers in **power engineering**, **healthcare**, and **research**. Always up for a challenge and breaking the limits of what's doable!
 
