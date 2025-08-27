@@ -94,7 +94,7 @@ class EmbeddedAI_Engineer {
 
 <div align="center">
 
-### 🔬 Physics-Informed Graph Neural Networks for Power Systems
+### 🔬 Physics-Informed Graph Neural Networks for Power Systems (Private Repo for now)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bengentle10&repo=Physics_Informed_Machine_Learning&theme=radical)](https://github.com/bengentle10/Physics_Informed_Machine_Learning)
 
 **Dynamic State Estimation using AI** | *Python, PyTorch, Graph Neural Networks*
