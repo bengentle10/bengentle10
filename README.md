@@ -101,10 +101,10 @@ class EmbeddedAI_Engineer {
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
 
 **Dynamic State Estimation for Power Systems**
-🧠 Physics-informed loss functions
-⚡ Multi-objective optimization  
-📊 Real-time monitoring (33/57/118-bus)
-🔬 Research project with promising results
+- 🧠 Physics-informed loss functions
+- ⚡ Multi-objective optimization  
+- 📊 Real-time monitoring (33/57/118-bus)
+- 🔬 Research project with promising results
 
 *Private repository - Academic research in progress*
 
@@ -113,9 +113,9 @@ class EmbeddedAI_Engineer {
 **📡 IoT Soil Resistance Monitoring System**
 
 **Smart Agriculture & Electrical Safety** | *Arduino, C++, GSM, IoT*
-🌱 **50% water savings** through intelligent irrigation
-📱 **Real-time GSM alerts** for remote monitoring
-🏭 **Industrial applications** for electrical grounding safety
+- 🌱 **50% water savings** through intelligent irrigation
+- 📱 **Real-time GSM alerts** for remote monitoring
+- 🏭 **Industrial applications** for electrical grounding safety
 
 </div>
 
