@@ -91,12 +91,7 @@ class EmbeddedAI_Engineer {
 ---
 
 ## 🚀 Featured Projects
-
-
-<table>
-<tr>
-<td width="50%">
-
+<div>
 ### 🔬 **Physics-Informed Neural Networks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
