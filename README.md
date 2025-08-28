@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Bernard Marfo-Adjei
 
-### 🚀 Embedded AI Engineer & Hardware-Software Co-design Enthusiast
+### 🚀 Exploring ML Model Development & Edge Deployment
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Pushing+the+boundaries+of+edge+intelligence;Optimizing+AI+for+microcontrollers;Building+real-world+IoT+solutions;Hardware-Software+Co-design+Researcher)](https://git.io/typing-svg)
 
