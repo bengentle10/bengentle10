@@ -14,7 +14,7 @@
 
 > **Creating solutions that drive real impact.**
 
-I'm passionate about developing **intelligent embedded systems** that bridge the gap between cutting-edge AI and resource-constrained hardware. My focus is on **Embedded AI and Hardware-Software Co-design**, where I optimize real-time AI inference on microcontrollers like **ARM Cortex-M** and **RISC-V** using advanced techniques.
+I'm drawn to the challenge of deploying **machine learning models** on resource-constrained devices. Training a neural network on a GPU cluster and then making it run efficiently on a microcontroller with 256KB of memory - that's the kind of problem I find compelling. My focus is **Embedded AI and Hardware-Software Co-design**, learning how to bridge **ARM Cortex-M** and **RISC-V** architectures with modern inference engines.
 
 ```cpp
 class EmbeddedAI_Engineer {
@@ -28,9 +28,9 @@ class EmbeddedAI_Engineer {
 };
 ```
 
-🔬 **Research Focus**: To Develope efficient inference engines for TinyML applications using low-level C++ optimization, quantization, and exploring AI hardware accelerators to push the boundaries of what's possible at the edge.
+🔬 **Research Focus**: Diving deep into TinyML - figuring out how to build efficient inference engines using low-level C++ optimization and quantization techniques. I'm also exploring the exciting world of AI hardware accelerators and what's possible when we push the boundaries of edge computing.
 
-💡 **Mission**: Building apps, sensing technologies, algorithms, and models that can be game-changers in **power engineering**, **healthcare**, and **research**. Always up for a challenge and breaking the limits of what's doable!
+💡 **What Drives Me**: I love the idea of creating technology that genuinely helps people - whether it's making power grids smarter, healthcare more accessible, or advancing research capabilities. There's nothing quite like the thrill of solving a problem that seemed impossible at first!
 
 ---
 
