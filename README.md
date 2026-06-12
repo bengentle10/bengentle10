@@ -73,59 +73,34 @@ class EmbeddedAI_Engineer {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bengentle10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengentle10&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bengentle10&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-**🔬 Physics-Informed Neural Networks**
+### 🔬 **Physics-Informed Neural Networks**
+**Dynamic State Estimation for Power Systems** | *Python, PyTorch, Pandapower*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
 
-**Dynamic State Estimation for Power Systems**
-- 🧠 Physics-informed loss functions
-- ⚡ Multi-objective optimization  
-- 📊 Real-time monitoring (33/57/118-bus)
-- 🔬 Research project with promising results
+- 🧠 Enforces physical laws (Kirchhoff's active/reactive power balance, voltage limits, branch thermal limits) directly inside GNN training via differentiable soft regularization.
+- ⚡ Integrates learned initializers with standard Newton-Raphson solvers to achieve fast, mathematically exact state projection in 1-2 steps.
+- 📊 Benchmarked on IEEE Case 33, 57, and 118-bus networks under dynamic topologies, high renewable penetration, and sparse PMU measurements.
 
 *Private repository - Academic research in progress*
 
 ---
 
-**📡 IoT Soil Resistance Monitoring System**
+### 📡 **IoT Soil Resistance Monitoring System**
+**Smart Agriculture & Electrical Grounding** | *Arduino, C++, GSM, IoT*
 
-**Smart Agriculture & Electrical Safety** | *Arduino, C++, GSM, IoT*
-- 🌱 **50% water savings** through intelligent irrigation
-- 📱 **Real-time GSM alerts** for remote monitoring
-- 🏭 **Industrial applications** for electrical grounding safety
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bengentle10&theme=react-dark&area=true&hide_border=true)
+- 🌱 **50% water savings** achieved by designing an automated, closed-loop irrigation control system based on real-time soil moisture/resistance feedback.
+- 📱 Deployed cellular GSM transmitters to send real-time diagnostic alerts and telemetry to operators' mobile devices.
+- 🏭 Adaptable to industrial grounding safety applications, ensuring continuous validation of substation ground-grid integrity.
 
 </div>
 
@@ -133,9 +108,9 @@ class EmbeddedAI_Engineer {
 
 ## 🎯 Research Interests & Current Focus
 
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔬 **Research Areas**
 ```yaml
@@ -159,7 +134,7 @@ Applications:
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 **Current Projects**
 - 🧠 **TinyML Engine**: Custom inference framework for Cortex-M
@@ -175,6 +150,17 @@ Applications:
 - 5G/6G edge intelligence
 
 </td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=bengentle10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengentle10&layout=compact&langs_count=8&theme=radical" height="180em"/></td>
 </tr>
 </table>
 
@@ -209,11 +195,21 @@ Applications:
 
 </div>
 
-<!-- Hidden section for GitHub metrics -->
+<!-- Collapsible detailed metrics to keep the profile concise -->
 <details>
-<summary>📊 Detailed GitHub Metrics</summary>
+<summary>📈 Detailed Activity & Streak Stats</summary>
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bengentle10&theme=radical)](https://git.io/streak-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bengentle10&theme=react-dark&area=true&hide_border=true)
 
 ![Metrics](https://metrics.lecoq.io/bengentle10?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&discussions=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&config.timezone=America%2FNew_York)
+
+</div>
 
 </details>
 
